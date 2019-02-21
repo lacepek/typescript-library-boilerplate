@@ -11,13 +11,12 @@
         ],
         "one-line": [
             true,
-            "check-open-brace",
             "check-whitespace"
         ],
         "no-var-keyword": true,
         "quotemark": [
             true,
-            "double",
+            "single",
             "avoid-escape"
         ],
         "semicolon": [
