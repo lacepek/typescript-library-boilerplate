@@ -1,18 +1,18 @@
-# Typescript Boilerplate
+# Typescript Library Boilerplate
 
 ## Getting Started
 
 [Documentation](https://lacepek.github.io/typescript-boilerplate/)
 
-### Instalation
+### Installation
 
 ```
-npm i typescript-boilerplate
+git clone https://github.com/lacepek/typescript-library-boilerplate.git <project-name>
 ```
 
 ## Versioning
 
-For the versions available, see the [tags on this repository](https://github.com/lacepek/typescript-boilerplate/tags). 
+For the versions available, see the [tags on this repository](https://github.com/lacepek/typescript-library-boilerplate/tags). 
 
 ## Authors
 
@@ -20,4 +20,4 @@ For the versions available, see the [tags on this repository](https://github.com
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/lacepek/typescript-boilerplate/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/lacepek/typescript-library-boilerplate/blob/master/LICENSE) file for details
